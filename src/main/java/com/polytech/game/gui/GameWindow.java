@@ -19,8 +19,8 @@ import java.util.Set;
  * Manages the main game window, canvas, and game loop
  */
 public class GameWindow {
-    private static final int WIDTH = 800;
-    private static final int HEIGHT = 600;
+    private static final int WIDTH = 1200;
+    private static final int HEIGHT = 900;
     private static final String TITLE = "Space Invaders - Design Patterns Project";
 
     private Canvas canvas;
