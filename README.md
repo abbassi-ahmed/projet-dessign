@@ -10,9 +10,9 @@ This is a Space Invaders-style video game developed as part of the Design Patter
 
 ## 👥 Group Members
 
-- [Your Name Here]
-- [Team Member 2]
-- [Team Member 3]
+- Abbassi Ahmed
+- Nermine Zouaui
+- Roua ben abdallah
 
 ## 🎮 Game Features
 
