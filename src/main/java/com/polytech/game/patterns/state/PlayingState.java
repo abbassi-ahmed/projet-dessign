@@ -120,9 +120,9 @@ public class PlayingState implements GameState {
     private void renderHUD(GraphicsContext gc) {
         gc.setFill(Color.WHITE);
         gc.setFont(new Font("Arial", 18));
-        gc.fillText("Score: " + score, 10, 25);
-        gc.fillText("Lives: " + lives, 10, 50);
-        gc.fillText("Active Power-ups: " + player.getActivePowerUps(), 10, 75);
+        gc.fillText("Score: " + score, 600, 25);
+        gc.fillText("Lives: " + lives, 600, 50);
+        gc.fillText("Active Power-ups: " + player.getActivePowerUps(), 600, 75);
     }
 
     private void checkCollisions() {
